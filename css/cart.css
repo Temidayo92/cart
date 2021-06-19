@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    font-family: "Inter", Arial, "Helvetica Neue", "Segoe UI", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #343a40;
+    text-align: left;
+    background-color: #fff;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.section-tittle h2 {
+    font-size: 70px;
+    display: block;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 4px;
+
+font-family: "Cinzel",serif;
+    color:#140c40;
+    margin-top: 0;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: normal;
+}
+.new-arrival .single-new-arrival .popular-caption .rating i {
+    font-size: 15px;
+    color: #fbba42;
+}
+.fa, .fas {
+    font-weight: 900;
+    color: #fbba42;
+}
+.fa, .fas {
+    font-family: "Font Awesome 5 Free";
+}
+.fa, .fab, .fas {
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+html * {
+    -webkit-font-smoothing: antialiased;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+i {
+    font-style: italic;
+}
+style attribute {
+    visibility: visible;
+    animation-duration: 1s;
+    animation-delay: 0.8s;
+    animation-name: fadeInUp;
+}
+.text-center {
+    text-align: center !important;
+}
+.row{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.footer {
+    max-width: calc(var(--main-width) + var(--gap) * 2);
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: auto;
+    padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
+    color: var(--secondary);
+    font-size: 12px;
+    text-align: center;
+    line-height: 24px;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
